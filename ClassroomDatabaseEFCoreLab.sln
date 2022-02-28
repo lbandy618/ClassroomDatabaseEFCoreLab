@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassroomDatabaseEFCoreLab", "ClassroomDatabaseEFCoreLab\ClassroomDatabaseEFCoreLab.csproj", "{A0A22A89-CAC6-4624-A33D-4E9EC8944E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A22A89-CAC6-4624-A33D-4E9EC8944E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A22A89-CAC6-4624-A33D-4E9EC8944E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A22A89-CAC6-4624-A33D-4E9EC8944E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A22A89-CAC6-4624-A33D-4E9EC8944E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242DECC4-49C0-4885-8836-CE25467BBE64}
+	EndGlobalSection
+EndGlobal
